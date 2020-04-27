@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "quDYCESWJXVvY59dl66u9bD2uWtedFQFPrAWjfzxUAwnSR0yYVIcB4seFmLXNkUFYA3UkuKohmM5qSlIJ7HT2w==",
+  "success": true,
+  "projectFilePath": "/Users/seb/src/minotaur/FirstIonideProject/FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/seb/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

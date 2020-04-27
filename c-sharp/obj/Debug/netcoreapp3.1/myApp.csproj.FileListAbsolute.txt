@@ -1,0 +1,12 @@
+/Users/seb/src/minotaur/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/seb/src/minotaur/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/seb/src/minotaur/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/seb/src/minotaur/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/seb/src/minotaur/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/seb/src/minotaur/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
