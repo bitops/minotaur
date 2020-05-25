@@ -1,0 +1,7 @@
+*.cache
+*.dll
+
+PrimeService.Tests/bin/
+PrimeService.Tests/obj/
+PrimeService/bin/
+PrimeService/obj/
